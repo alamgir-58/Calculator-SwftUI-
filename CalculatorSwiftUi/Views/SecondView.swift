@@ -50,6 +50,8 @@ struct SecondView: View {
                         .background(Color.blue)
                         .foregroundStyle(.black)
                         .cornerRadius(8)
+                        .opacity(0.5)
+                        .contrast(0.8)
                     Text("Two")
                         .padding()
                         .font(.subheadline)
