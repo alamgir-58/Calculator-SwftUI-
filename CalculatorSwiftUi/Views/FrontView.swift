@@ -20,6 +20,8 @@ struct FrontView: View {
                          .background(Color.blue)
                          .foregroundStyle(.black)
                          .cornerRadius(8)
+                         .opacity(0.8)
+                         .contrast(01)
                  }
              }
              .padding()
