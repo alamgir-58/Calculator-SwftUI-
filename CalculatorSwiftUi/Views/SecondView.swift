@@ -36,13 +36,11 @@ struct SecondView: View {
                         .font(.subheadline)
                         .background(Color.blue)
                         .foregroundStyle(.black)
-                        .cornerRadius(8)
                     Text("Second View 2")
                         .padding()
                         .font(.subheadline)
                         .background(Color.blue)
                         .foregroundStyle(.black)
-                        .cornerRadius(8)
                 }
                 Spacer()
                 HStack {
@@ -69,4 +67,5 @@ struct SecondView: View {
     SecondView()
 }
 
-//Alamgir
+//Alamgir Hossain
+
